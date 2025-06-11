@@ -33,7 +33,7 @@ Traditional games rely heavily on keyboard and mouse input. This project explore
 
 ## 🛠️ Technologies Used
 
-* **Python 3.9**
+* **Python 3.12.5**
 * **OpenCV** – Real-time video processing
 * **MediaPipe** – Pose estimation and landmark detection
 * **PyAutoGUI** – Simulating keyboard inputs
